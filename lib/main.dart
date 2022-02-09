@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Card(
+            color: Colors.tealAccent,
             elevation: 15,
             shadowColor: Colors.red,
             shape: const RoundedRectangleBorder(
